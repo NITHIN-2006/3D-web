@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    color:#EEEEEE;
+    gap: 10px;
+    justify-content: center;
+    padding-top: 30px;
+    font-size: 20px;
+    font:bold;
+}
+.Home:hover{
+    color: bisque;
+}
+.Contact:hover{
+    color: rgb(158, 126, 86);
+}
+.Login:hover{
+    color: rgb(161, 223, 128);
+}
+.Register:hover{
+    color: bisque;
+}
